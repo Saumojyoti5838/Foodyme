@@ -1,0 +1,44 @@
+.container1{
+    margin-top: 10px;
+}
+.card-img-top1,
+.card-img-top2,
+.card-img-top3,
+.card-img-top4,
+.card-img-top5,
+.card-img-top6{
+    height: 420px;
+    width: 600px;
+}
+.card1{
+    margin-left: 120px;
+    margin-top: 10px;
+}
+.card2{
+    margin-left: 260px; 
+    margin-top: 10px;
+}
+.card4{
+    margin-left: 260px; 
+    margin-top: 10px;
+}
+.card3{
+    margin-left: 120px; 
+    margin-top: 10px;
+}
+.card-text1{
+    width: 550px;
+    font-weight: 1.2em;
+}
+.card-text2{
+    width: 620px;
+    font-weight: 1.2em;
+}
+.card-text{
+    width: 550px;
+    font-weight: 1.2em;
+}
+.card-title1{
+    width: 550px;
+    font-weight: 1.2em;
+}
